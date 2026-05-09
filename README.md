@@ -134,3 +134,7 @@ The final solution delivered an enterprise-style analytics experience capable of
 ## Future plan
 Customer Segmentation Analytics </br>
 Salesperson Performance Analytics
+
+### Author
+Suraj Balaji Bhagaye </br>
+bhagayesuraj@gmail.com
